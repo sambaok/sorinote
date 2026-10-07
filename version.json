@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "release_date": "2026-08-17",
+  "version": "2.0",
+  "release_date": "2026-10-7",
   "download_url": "https://3bun.org",
   "mandatory": false,
   "notes": "- 녹음 파일 번역 오류 수정\n- 내보내기 속도 개선\n- 일부 환경에서 발생하던 강제 종료 문제 해결"
