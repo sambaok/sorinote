@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "release_date": "2026-10-7",
+  "version": "3.1",
+  "release_date": "2026-11-05",
   "download_url": "https://3bun.org",
   "mandatory": false,
   "notes": "- 화자 구분 개선\n- 사소한 오류 문제 해결"
