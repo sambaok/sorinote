@@ -1,6 +1,6 @@
 {
-  "version": "3.1",
-  "release_date": "2026-11-05",
+  "version": "3.3",
+  "release_date": "2026-11-24",
   "download_url": "https://3bun.org",
   "mandatory": false,
   "notes": "- 기능 개선\n- 사소한 오류 문제 해결"
